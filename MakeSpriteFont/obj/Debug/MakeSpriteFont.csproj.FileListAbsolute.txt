@@ -1,0 +1,15 @@
+D:\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+D:\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+D:\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+D:\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+D:\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+E:\EllieR\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+E:\EllieR\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+E:\EllieR\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+E:\EllieR\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+E:\EllieR\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+D:\ER\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+D:\ER\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+D:\ER\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+D:\ER\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+D:\ER\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb

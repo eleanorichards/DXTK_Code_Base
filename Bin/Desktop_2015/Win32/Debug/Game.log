@@ -1,0 +1,62 @@
+﻿Build started 14/02/2017 11:22:35.
+     1>Project "H:\Personal\UNI\GEA\DXTK_Code_Base\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (..\Bin\Desktop_2015\Win32\Debug\) contains files shared from another project (DirectXTKAudio_Desktop_2015_Win8.vcxproj, DirectXTK_Desktop_2015.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\Inc /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _DEBUG /D DEBUG /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"..\Bin\Desktop_2015\Win32\Debug\\" /Fd"..\Bin\Desktop_2015\Win32\Debug\Game.pdb" /Gd /TP /analyze- /errorReport:prompt Bullet.cpp camera.cpp CMOGO.cpp CollisionManager.cpp Enemy.cpp EnemyGun.cpp EnemyManager.cpp Game.cpp gameobject.cpp GameState.cpp Gun.cpp terrain.cpp TPSCamera.cpp Vehicle.cpp
+         Vehicle.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         TPSCamera.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         terrain.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Gun.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>h:\personal\uni\gea\dxtk_code_base\game\gun.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>h:\personal\uni\gea\dxtk_code_base\game\gun.cpp(94): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+         GameState.cpp
+         gameobject.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Game.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>h:\personal\uni\gea\dxtk_code_base\game\game.cpp(67): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>h:\personal\uni\gea\dxtk_code_base\game\game.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>h:\personal\uni\gea\dxtk_code_base\game\game.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>h:\personal\uni\gea\dxtk_code_base\game\game.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     1>h:\personal\uni\gea\dxtk_code_base\game\game.cpp(209): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+         EnemyManager.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>h:\personal\uni\gea\dxtk_code_base\game\enemymanager.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+         EnemyGun.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>h:\personal\uni\gea\dxtk_code_base\game\enemygun.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+         Enemy.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         CollisionManager.cpp
+         CMOGO.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         camera.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Bullet.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"..\Bin\Desktop_2015\Win32\Debug\Game.lib" /NOLOGO ..\Bin\Desktop_2015\Win32\Debug\Bullet.obj
+         ..\Bin\Desktop_2015\Win32\Debug\camera.obj
+         ..\Bin\Desktop_2015\Win32\Debug\CMOGO.obj
+         ..\Bin\Desktop_2015\Win32\Debug\CollisionManager.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Enemy.obj
+         ..\Bin\Desktop_2015\Win32\Debug\EnemyGun.obj
+         ..\Bin\Desktop_2015\Win32\Debug\EnemyManager.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Game.obj
+         ..\Bin\Desktop_2015\Win32\Debug\gameobject.obj
+         ..\Bin\Desktop_2015\Win32\Debug\GameState.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Gun.obj
+         ..\Bin\Desktop_2015\Win32\Debug\terrain.obj
+         ..\Bin\Desktop_2015\Win32\Debug\TPSCamera.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Vehicle.obj
+         Game.vcxproj -> H:\Personal\UNI\GEA\DXTK_Code_Base\Game\..\Bin\Desktop_2015\Win32\Debug\Game.lib
+     1>Done Building Project "H:\Personal\UNI\GEA\DXTK_Code_Base\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.77

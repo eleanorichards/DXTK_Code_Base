@@ -1,0 +1,15 @@
+﻿Build started 14/02/2017 11:21:54.
+     1>Project "H:\Personal\UNI\GEA\DXTK_Code_Base\Assets\Assets.vcxproj" on node 4 (Build target(s)).
+     1>_MeshContentTask:
+         bus.FBX
+         FSM.fbx
+         George Nelson Wood Dase Platform Bench_FBX\Bench.fbx
+         goblin_fbx.FBX
+         laser gun.fbx
+         terrain.FBX
+         Textured Bullet FBX\lowpolybullet.fbx
+     1>Done Building Project "H:\Personal\UNI\GEA\DXTK_Code_Base\Assets\Assets.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:41.30
